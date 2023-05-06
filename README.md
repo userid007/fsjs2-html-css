@@ -1,3 +1,3 @@
-These are the frontend project made in Full Stack JavaScript BootCamp.
+These are the frontend projects made in Full Stack JavaScript BootCamp.
 
-Project's are corrently not are not responsive. Work on Desktop.
+Project's are currently are not responsive. Works on Desktop.
